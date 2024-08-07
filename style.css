@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+header {
+    background-color: #ffcc00;
+}
+
+nav {
+    background-color: #d3d2d2;
+    border: 3px solid #000000;
+}
+
+main {
+    background-color: #abe3fd;
+    font-size: 14px;
+}
+
+footer {
+    background-color: #ececec;
+    border-top: 2px solid #000000;
+}
+
+li {
+    display: inline-block;
+    width: auto;
+    margin: 30px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #e28605;
+}
+
+img, h1 {
+    display: inline-block; 
+}
+
+p {
+    line-height: 25px;
+}
+
